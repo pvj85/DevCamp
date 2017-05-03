@@ -15,3 +15,6 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+#Ignore Secret Keys
+/config/secrets.yml
